@@ -1,0 +1,5 @@
+C:\Examen\ExamenProyecto\SolucionClientes\Entidad\bin\Debug\Entidad.dll
+C:\Examen\ExamenProyecto\SolucionClientes\Entidad\bin\Debug\Entidad.pdb
+C:\Examen\ExamenProyecto\SolucionClientes\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Examen\ExamenProyecto\SolucionClientes\Entidad\obj\Debug\Entidad.dll
+C:\Examen\ExamenProyecto\SolucionClientes\Entidad\obj\Debug\Entidad.pdb

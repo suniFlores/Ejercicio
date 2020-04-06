@@ -1,0 +1,11 @@
+C:\Examen\ExamenProyecto\SolucionClientes\Negocio\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Examen\ExamenProyecto\SolucionClientes\Negocio\bin\Debug\Negocio.dll
+C:\Examen\ExamenProyecto\SolucionClientes\Negocio\bin\Debug\Negocio.pdb
+C:\Examen\ExamenProyecto\SolucionClientes\Negocio\bin\Debug\Entidad.dll
+C:\Examen\ExamenProyecto\SolucionClientes\Negocio\bin\Debug\Repositorio.dll
+C:\Examen\ExamenProyecto\SolucionClientes\Negocio\bin\Debug\Entidad.pdb
+C:\Examen\ExamenProyecto\SolucionClientes\Negocio\bin\Debug\Repositorio.pdb
+C:\Examen\ExamenProyecto\SolucionClientes\Negocio\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Examen\ExamenProyecto\SolucionClientes\Negocio\obj\Debug\BL.csproj.CopyComplete
+C:\Examen\ExamenProyecto\SolucionClientes\Negocio\obj\Debug\Negocio.dll
+C:\Examen\ExamenProyecto\SolucionClientes\Negocio\obj\Debug\Negocio.pdb

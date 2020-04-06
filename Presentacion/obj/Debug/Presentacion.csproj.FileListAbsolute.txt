@@ -1,0 +1,17 @@
+C:\Examen\ExamenProyecto\SolucionClientes\Presentacion\obj\Debug\Presentacion.FrmClientes.resources
+C:\Examen\ExamenProyecto\SolucionClientes\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Examen\ExamenProyecto\SolucionClientes\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Examen\ExamenProyecto\SolucionClientes\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Examen\ExamenProyecto\SolucionClientes\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Examen\ExamenProyecto\SolucionClientes\Presentacion\bin\Debug\Presentacion.exe
+C:\Examen\ExamenProyecto\SolucionClientes\Presentacion\bin\Debug\Presentacion.pdb
+C:\Examen\ExamenProyecto\SolucionClientes\Presentacion\bin\Debug\Entidad.dll
+C:\Examen\ExamenProyecto\SolucionClientes\Presentacion\bin\Debug\Negocio.dll
+C:\Examen\ExamenProyecto\SolucionClientes\Presentacion\bin\Debug\Repositorio.dll
+C:\Examen\ExamenProyecto\SolucionClientes\Presentacion\bin\Debug\Entidad.pdb
+C:\Examen\ExamenProyecto\SolucionClientes\Presentacion\bin\Debug\Negocio.pdb
+C:\Examen\ExamenProyecto\SolucionClientes\Presentacion\bin\Debug\Repositorio.pdb
+C:\Examen\ExamenProyecto\SolucionClientes\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Examen\ExamenProyecto\SolucionClientes\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Examen\ExamenProyecto\SolucionClientes\Presentacion\obj\Debug\Presentacion.exe
+C:\Examen\ExamenProyecto\SolucionClientes\Presentacion\obj\Debug\Presentacion.pdb

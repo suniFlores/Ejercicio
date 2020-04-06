@@ -1,0 +1,9 @@
+C:\Examen\ExamenProyecto\SolucionClientes\Repositorio\obj\Debug\Repositorio.csprojAssemblyReference.cache
+C:\Examen\ExamenProyecto\SolucionClientes\Repositorio\obj\Debug\Repositorio.csproj.CoreCompileInputs.cache
+C:\Examen\ExamenProyecto\SolucionClientes\Repositorio\bin\Debug\Repositorio.dll
+C:\Examen\ExamenProyecto\SolucionClientes\Repositorio\bin\Debug\Repositorio.pdb
+C:\Examen\ExamenProyecto\SolucionClientes\Repositorio\bin\Debug\Entidad.dll
+C:\Examen\ExamenProyecto\SolucionClientes\Repositorio\bin\Debug\Entidad.pdb
+C:\Examen\ExamenProyecto\SolucionClientes\Repositorio\obj\Debug\Repositorio.csproj.CopyComplete
+C:\Examen\ExamenProyecto\SolucionClientes\Repositorio\obj\Debug\Repositorio.dll
+C:\Examen\ExamenProyecto\SolucionClientes\Repositorio\obj\Debug\Repositorio.pdb
